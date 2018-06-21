@@ -1,0 +1,32 @@
+{
+    "Other Info": {
+        "Choice": "save",
+        "Save Game Version": "1.1"
+    },
+    "Player Inventory": {
+        "Item": "Fists",
+        "Money": 100,
+        "Cannon": false,
+        "Fists": true,
+        "Sword": false,
+        "Full Heals": 5,
+        "Club": false,
+        "Half Heals": 10
+    },
+    "Achievements": {
+        "Begin Journey Notebook": false,
+        "Are Creator": false,
+        "Begin Journey": false,
+        "Achievement Tracker": 1,
+        "Boot First Time": true
+    },
+    "Player Info": {
+        "Load Place": "1",
+        "Player Level": 1,
+        "Ending Points": 0,
+        "Player Gender": "M",
+        "Player HP": 100,
+        "Player EXP": 0,
+        "Player Name": "Kyle"
+    }
+}
